@@ -50,10 +50,11 @@ a{color:#4d4d4d;
 }
 body{background-color:#fff;}
 .easy-tree{background-color:#fff;}
-.foot{background-color:#333;
-color:#fff;
-margin-top:0;
-margin-bottom:0;}
+.foot{
+	background-color:#333;
+	color:#fff;
+	padding:6px 0px 0px 0px;
+}
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{background-color:#fff;}
 .classify{border-right:1px solid #000;}
 .nav-tabs {
