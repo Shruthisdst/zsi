@@ -1,0 +1,63 @@
+.toc{
+border:1px solid black;
+border-radius:10px;
+padding:15px;}
+
+.img{padding:10px;}
+
+.back_color{
+background-color:#ffd9b3;
+padding-top: 10px;
+}
+
+.navbar{
+margin-bottom:0px;
+border-radius:0px;
+}
+
+.image{
+display:block;
+margin:auto;
+height:50px;
+padding-top:10px;
+}
+
+.logo{
+padding:5px;
+display:block;
+margin:auto;
+}
+
+.side{
+display:block;
+padding:10px;
+margin:auto;
+height:150px;
+}
+.headBar{
+padding: 20.5px 0px 20.5px 0px;
+background-color:#ff9933;
+}
+.head{
+background-color:#ff9933;
+}
+.nav-tabs>li>a{
+border-radius:0px;
+margin-right:0px;
+border: 1px solid rgba(0, 0, 0, 0.08);
+}
+a{color:#4d4d4d;
+}
+body{background-color:#fff;}
+.easy-tree{background-color:#fff;}
+.foot{background-color:#333;
+color:#fff;
+margin-top:0;
+margin-bottom:0;}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{background-color:#fff;}
+.classify{border-right:1px solid #000;}
+.nav-tabs {
+border-bottom: 1px solid #fff;}
+.nav-tabs>li.active>a{border:1px solid #fff;}
+.page-header{border-bottom:1px solid black;}
+
